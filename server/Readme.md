@@ -1,7 +1,10 @@
 
 ## Backend: Java spring boot
 
+## Acknowledgements
 
+ - [Java](https://www.w3schools.com/java/default.asp)
+ - [Spring Boot](https://spring.io/guides/gs/spring-boot/)
 ## Project Structure
 
 ```bash
